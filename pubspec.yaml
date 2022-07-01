@@ -1,7 +1,8 @@
 name: dynamic_form_json
-description: A new Flutter package project.
+description: Flutter app for creating dynamic form from json.
 version: 0.0.1
-homepage:
+author: Jenish MS<stupidcoder.official@gmail.com>
+homepage: https://github.com/JenishMS/dynamic_form_json.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
